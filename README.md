@@ -3,6 +3,8 @@
 
 ![sih pic 1](https://github.com/user-attachments/assets/0221e000-dfd7-467f-87d9-0f7d7f13ddce)
 ![sih winning pic](https://github.com/user-attachments/assets/8da0de9a-a4df-4f9f-9366-46a381d3cfbf)
+![SIH certificate](https://github.com/user-attachments/assets/920554e2-e35d-42c1-a8b7-addbb756bf1d)
+
 
 
 ## 🏆 Smart India Hackathon 2024 Winner
