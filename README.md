@@ -3,7 +3,6 @@
 
 ![Uploading sih winning pic.jpg…]()
 
-
 ## 🏆 Smart India Hackathon 2024 Winner
 
 - **Problem Statement ID:** 1554
