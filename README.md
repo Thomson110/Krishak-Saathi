@@ -1,7 +1,9 @@
 # Krishak-Saathi
 # Krishak Saathi - Smart Irrigation System for Precision Farming
 
-![Uploading sih winning pic.jpg…]()
+![sih pic 1](https://github.com/user-attachments/assets/0221e000-dfd7-467f-87d9-0f7d7f13ddce)
+![sih winning pic](https://github.com/user-attachments/assets/8da0de9a-a4df-4f9f-9366-46a381d3cfbf)
+
 
 ## 🏆 Smart India Hackathon 2024 Winner
 
